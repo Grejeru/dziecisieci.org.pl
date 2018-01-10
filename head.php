@@ -16,7 +16,7 @@
           <h1 class="display-3 mb-4"><a href="/">DzieciSieci.org.pl</a></h1>
           <p class="lead mb-5">Oficjalna strona serwera TeamSpeak <b>DzieciSieci.org.pl</b>
             <br>Serwer powstał dla wygody i lepszej kontroli kanałów podczas naszych rozgrywek.
-            <br>Każdy może dołączyć do naszej społeczności jako admin wśasnego kanału, wystarczy ze pogra z nami dość długo w jedną z gier w które gramy i spodoba się obecnym adminom.
+            <br>Każdy może dołączyć do naszej społeczności jako admin własnego kanału, wystarczy że pogra z nami dość długo w jedną z gier w które gramy i spodoba się obecnym adminom.
             <br>
           </p>
           <a href="/nowe_konto/" class="btn btn-lg mx-1 btn-primary">Załóż konto</a>
