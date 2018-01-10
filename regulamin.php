@@ -25,8 +25,8 @@
               <p class="card-text">
                 <ul>
                   <li>Serwer domyślnie pozwala na korzystanie z kilku kanałów</li>
-                  <li>Każdy może dostać swój własny kanał od administracji, taki kanał może być stay lub tymczasowy, zależnie od opinii zakładającego</li>
-                  <li>Kanały prywatne żądzą się własnymi prawami, jeśli nie stoją one w sprzeczności z niniejszym regulaminem</li>
+                  <li>Każdy może dostać swój własny kanał od administracji, taki kanał może być stały lub tymczasowy, zależnie od opinii zakładającego</li>
+                  <li>Kanały prywatne rządzą się własnymi prawami, jeśli nie stoją one w sprzeczności z niniejszym regulaminem</li>
                 </ul>
               </p>
               <h5 class="card-title">Postanowienia uzupełniające:</h5>
@@ -35,8 +35,8 @@
                   <li>Administrator ma prawo wykopać użytkownika bez podania powodu</li>
                   <li>Administrator ma prawo zbanować użytkownika podając powód</li>
                   <li>Administracja zastrzega sobie prawo do przesyłania komunikatów poprzez masowe wiadomości lub inne dostępne w TeamSpeak sposoby</li>
-                  <li>Administracja zastrzega sobie prawo do zmiany treśći niniejszego regulaminu bez uprzedzenia</li>
-                  <li>Regulamin zaczyna obowiązywać od momenu opublikowania uaktualnionej wersji</li>
+                  <li>Administracja zastrzega sobie prawo do zmiany treści niniejszego regulaminu bez uprzedzenia</li>
+                  <li>Regulamin zaczyna obowiązywać od momentu opublikowania uaktualnionej wersji</li>
                 </ul>
               </p>
             </div>
