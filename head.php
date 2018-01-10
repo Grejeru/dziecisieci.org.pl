@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-beta.1.css" type="text/css"> </head>
 
 <body>
-  <div class="py-5 text-center opaque-overlay" style="background-image: url(Background.jpg);">
+  <div class="py-5 text-center opaque-overlay" style="background-image: url(/Background.jpg);">
     <div class="container py-5">
       <div class="row">
         <div class="col-md-12 text-white">
@@ -19,10 +19,10 @@
             <br>Każdy może dołączyć do naszej społeczności jako admin wśasnego kanału, wystarczy ze pogra z nami dość długo w jedną z gier w które gramy i spodoba się obecnym adminom.
             <br>
           </p>
-          <a href="#" class="btn btn-lg mx-1 btn-primary">Załóż konto</a>
-          <a href="#" class="btn btn-lg btn-primary mx-1">Regulamin</a>
-          <a href="#" class="btn btn-lg btn-primary mx-1">Ekipa</a>
-          <a href="#" class="btn btn-lg btn-primary mx-1">Kontakt</a>
+          <a href="/nowe_konto/" class="btn btn-lg mx-1 btn-primary">Załóż konto</a>
+          <a href="/regulamin/" class="btn btn-lg btn-primary mx-1">Regulamin</a>
+          <a href="/ekipa/" class="btn btn-lg btn-primary mx-1">Ekipa</a>
+          <a href="/kontakt/" class="btn btn-lg btn-primary mx-1">Kontakt</a>
         </div>
       </div>
     </div>
