@@ -53,7 +53,7 @@
         </div>
         <div class="row">        
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-300x300.jpg" alt="Ciastek">
+            <img class="card-img-top" src="/519UvPjYXzL._SY300_.jpg" alt="Ciastek">
             <div class="card-body">
               <h5 class="card-title"><a href="https://www.twitch.tv/cisakus">Ciastek</a></h5>
               <p class="card-text">
