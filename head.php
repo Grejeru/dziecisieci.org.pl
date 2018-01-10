@@ -13,7 +13,7 @@
     <div class="container py-5">
       <div class="row">
         <div class="col-md-12 text-white">
-          <h1 class="display-3 mb-4"><b>DzieciSieci.org.pl</b></h1>
+          <h1 class="display-3 mb-4"><a href="/">DzieciSieci.org.pl</a></h1>
           <p class="lead mb-5">Oficjalna strona serwera TeamSpeak <b>DzieciSieci.org.pl</b>
             <br>Serwer powstał dla wygody i lepszej kontroli kanałów podczas naszych rozgrywek.
             <br>Każdy może dołączyć do naszej społeczności jako admin wśasnego kanału, wystarczy ze pogra z nami dość długo w jedną z gier w które gramy i spodoba się obecnym adminom.
