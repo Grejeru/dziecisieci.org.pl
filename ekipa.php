@@ -65,28 +65,28 @@
           </div>
 
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/zoltan_sog-profile_image-b443037aaf613e4e-300x300.jpeg" alt="Zoltan_SOG">
+            <img class="card-img-top" src="/" alt="Upcoming">
             <div class="card-body">
-              <h5 class="card-title"><a href="https://www.twitch.tv/zoltan_sog/">Zoltan_SOG</a></h5>
+              <h5 class="card-title"><a href="">Upcoming</a></h5>
               <p class="card-text">
-              Wreszcie 40 na karku i cały czas gram w gry komputerowe.<br /><br />
-              Swoją przygodę rozpocząłem inwestując otrzymane pieniądze z okazji Komunii Św. w komputer ATARI 800XL (alternatywą był zestaw LEGO). Wygrał komputer i do tej pory moja praca i zabawa jest związana z komputerami.<br /><br />
-              40 yers old man but still love playing games.       
+              Lorem ipsum
               </p>
             </div>
           </div>
 
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/95e46461e5ff5245-profile_image-300x300.png" alt="SuperMelepeta">
+            <img class="card-img-top" src="/" alt="Upcoming">
             <div class="card-body">
-              <h5 class="card-title"><a href="https://www.twitch.tv/supermelepeta">SuperMelepeta</a></h5>
-              <p class="card-text"><strong>Melepeta</strong> - potocznie pejoratywne określenie kogoś niezdarnego, powolnego, niemądrego. 
-                <br />Tak jak SuperMan, miał być wszystkim co najlepsze w człowieku, tak SuperMelepeta pokazuje Super wersję cech melepety. Nie trafia w przeciwników, nie znajduje przedmiotów. Nie wie skąd do niego srztelają i je kolację z kurczaka tylko jak ktoś inny ją ufunduje ;-) Zwykle ginie na początku rundy.</p>
+              <h5 class="card-title"><a href="">Upcoming</a></h5>
+              <p class="card-text">
+              Lorem ipsum
+              </p>
             </div>
           </div>
-        
+
         </div>
 
+        
       </div>
       <br /><br /><br />
     </div>
