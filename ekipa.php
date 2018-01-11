@@ -65,11 +65,12 @@
           </div>
 
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/" alt="Upcoming">
+            <img class="card-img-top" src="/175867ce87e4b45f-profile_image-300x300.jpeg" alt="WinneRek">
             <div class="card-body">
-              <h5 class="card-title"><a href="">Upcoming</a></h5>
+              <h5 class="card-title"><a href="">WinneRek</a></h5>
               <p class="card-text">
-              Lorem ipsum
+              Jestem Szymon, mam 18 lat i dopiero zaczynam przygodę ze streamowaniem. Jest to moje nowe hobby :D<br /><br />
+              Głównie gram w cs'a, ale również grywam w inne gierki fps, mmo/rpg, także zapraszam Wszystkich zainteresowanych na transmisje, które odbywają się kilka razy w tygodniu, głownie wieczorami. :)
               </p>
             </div>
           </div>
