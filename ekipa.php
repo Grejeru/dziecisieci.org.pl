@@ -76,11 +76,12 @@
           </div>
 
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/" alt="Upcoming">
+            <img class="card-img-top" src="/585d9bd6-6f00-47fb-8464-0ecbf8e31e6e-profile_image-300x300.png" alt="Kartofel321123">
             <div class="card-body">
-              <h5 class="card-title"><a href="">Upcoming</a></h5>
+              <h5 class="card-title"><a href="https://www.twitch.tv/kartofel321123">Kartofel321123</a></h5>
               <p class="card-text">
-              Lorem ipsum
+               Młody ale zdolny. Śmieszek.<br />
+               Ulubione powiedzenie: iks-de<br />
               </p>
             </div>
           </div>
