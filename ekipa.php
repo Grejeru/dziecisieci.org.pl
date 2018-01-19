@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="text-center display-3 text-primary">Nasza Ekipa:</h1>
+          <h1 class="text-center display-3 text-primary">Admini serwera:</h1>
           <br /><br /><br />
         </div>
         <div class="row">        
@@ -76,12 +76,15 @@
           </div>
 
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
-            <img class="card-img-top" src="/585d9bd6-6f00-47fb-8464-0ecbf8e31e6e-profile_image-300x300.png" alt="Kartofel321123">
+            <img class="card-img-top" src="/Lambert.png" alt="lambert231">
             <div class="card-body">
-            <h5 class="card-title"><img src="/twitch.png" alt="Lambert"> Lambert</h5>
+            <h5 class="card-title"><img src="/twitch.png" alt="Lambert"> lambert231</h5>
             <p class="card-text">
                ムᛚᛆᛗᛒᛖᚱᛏム<br />
-               
+               Zakochany w Wiedźminie, Assasynach, BF4 i COD2.
+               Pewnego dnia jednak ojciec Lamberta wpadł do gniazda nekkerów i ocalił go Zoltan_SOG, 
+               ten zażądał zapłaty a jako że pijak nic nie miał Zoltan skorzystał z prawa niespodzianki, 
+               tak się złożyło że pierwszą rzeczą jaką ojciec Lamberta napotkał w domu był jego syn. Tak też zaczęła się kariera Lamberta jako admina DzieciSieci.org.pl.  
               </p>
             </div>
           </div>
