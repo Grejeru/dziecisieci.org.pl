@@ -25,7 +25,7 @@
               <p class="card-text">
                 <ul>
                   <li>Serwer domyślnie pozwala na korzystanie z kilku kanałów</li>
-                  <li>Każdy może dostać swój własny kanał od administracji, taki kanał może być stały lub tymczasowy, zależnie od opinii zakładającego</li>
+                  <li>Prócz ogólno dostępnych kanałów, administracja tworzy nowe kanawły wedle potrzeb</li>
                   <li>Kanały prywatne rządzą się własnymi prawami, jeśli nie stoją one w sprzeczności z niniejszym regulaminem</li>
                 </ul>
               </p>
