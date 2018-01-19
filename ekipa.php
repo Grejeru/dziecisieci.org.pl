@@ -10,7 +10,7 @@
           <div class="card col-md-4" style="width: 28rem; opacity: .7;">
             <img class="card-img-top" src="/508203eb-768e-4ef3-8b07-780d8d3e4198-profile_image-300x300.png" alt="Greyer">
             <div class="card-body">
-              <h5 class="card-title"><a href="https://www.twitch.tv/grejeru">Greyer</a></h5>
+              <h5 class="card-title"><img src="/twitch.png" alt="grejeru"> grejeru</h5>
               <p class="card-text">
                 <ul>
                   <li>CPU: Intel i7-7700K</li>
