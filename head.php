@@ -19,7 +19,6 @@
             <br>Każdy może dołączyć do naszej społeczności, wystarczy że pogra z nami dość długo w jedną z gier w które gramy podczas gadek na tym serwerze.
             <br>
           </p>
-          <a href="/nowe_konto/" class="btn btn-lg mx-1 btn-primary">Załóż konto</a>
           <a href="/regulamin/" class="btn btn-lg btn-primary mx-1">Regulamin</a>
           <a href="/ekipa/" class="btn btn-lg btn-primary mx-1">Administratorzy</a>
           <a href="/kontakt/" class="btn btn-lg btn-primary mx-1">Kontakt</a>
