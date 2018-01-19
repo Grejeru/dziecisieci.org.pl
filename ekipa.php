@@ -81,7 +81,7 @@
             <h5 class="card-title"><img src="/twitch.png" alt="Lambert"> lambert231</h5>
             <p class="card-text">
                ムᛚᛆᛗᛒᛖᚱᛏム<br />
-               Zakochany w Wiedźminie, Assasynach, BF4 i COD2.<br />
+               Zakochany w Wiedźminie, Assasynach, BF4 i COD2.<br /><br />
                Pewnego dnia jednak ojciec Lamberta wpadł do gniazda nekkerów i ocalił go Zoltan_SOG, 
                ten zażądał zapłaty a jako że pijak nic nie miał Zoltan skorzystał z prawa niespodzianki, 
                tak się złożyło że pierwszą rzeczą jaką ojciec Lamberta napotkał w domu był jego syn. Tak też zaczęła się kariera Lamberta jako admina DzieciSieci.org.pl.  
